@@ -8,15 +8,14 @@
 
 | Project | What it does |
 |---------|--------------|
-| [**OGCode**](https://github.com/TejasriPacharu/OGproject) `🧩` | AI-powered competitive coding platform · Docker sandboxing · Real-time leaderboards |
+| [**OGCode**](https://github.com/TejasriPacharu/OGproject) `🧩` | AI-powered competitive coding platform · Docker sandboxing · multi-language support |
 | [**DocuVerse**](https://github.com/TejasriPacharu/DocuVerse) `📑` | Chat with documents · FAISS vector search · RAG pipeline |
-| [**LLM Observe**](https://github.com/TejasriPacharu/llm-observe) `🔬` | LangSmith-style observability · Prompt logging · Drift detection |
+| [**Code-Help**](https://github.com/TejasriPacharu/code-help) `🤖` | Multi-agent code assistant · Code analysis, debugging, testing & security review · OpenAI Agents SDK |
 | [**AI Brand Visibility Tracker**](https://github.com/TejasriPacharu/ai-brand-visibility-tracker) `📡` | Track brand mentions across ChatGPT & Gemini responses |
 | [**Screen Rec**](https://github.com/TejasriPacharu/screen-rec) `🎬` | Browser-based recording · FFmpeg trimming · S3 uploads |
+| [**LLM Observe**](https://github.com/TejasriPacharu/llm-observe) `🔬` | LangSmith-style observability · Prompt logging · Drift detection |
 | [**Tuteetutor**](https://github.com/lahariSane/tuteetutor-react) `🎓` | A Google-style Classroom management system · Multi-role dashboards · Solr search |
-| [**NIDS**](https://github.com/Akshitadimpu05/NIDS) `🌠` | a distributed encrypted-traffic IDS using Autoencoders, Capsule Networks, and PPO-based RL
-mitigation module with Allow/Block/Throttle decisions, achieving 94.83% accuracy and 47.2 ms latency on
-CIC-Darknet2020, deployed in a Docker-based fog computing environment|
+| [**NIDS**](https://github.com/Akshitadimpu05/NIDS) `🛡️` | A Distributed Hybrid RL-based intrusion detection · Autoencoders + Capsule Networks · PPO · 94.83% accuracy and 47.2 ms latency|
 
 `🔒` **Research Acchievement** · Hybrid RL-Based Network IDS — *Accepted @ COMSNETS MINDS 2026* 
 
