@@ -1,148 +1,49 @@
-# Hey, I'm Teja👋
+# Hey, I'm Teja 👾
 
-👾 B.Tech CSE @ IIIT Sricity (2026)  
-
-I am into building and deploying Distributed Systems, LLM powered applications and Industrial Systems 
----
-
-# Featured Projects
+**B.Tech CSE @ IIIT Sricity '26** · Building distributed systems, LLM apps & industrial-grade software
 
 ---
 
-## 👾 OGCode – AI-Powered Coding Platform  
-🔗 https://github.com/TejasriPacharu/OGproject  
+### ⚡ Featured Work
 
-LeetCode-style competitive programming platform featuring:
+| Project | What it does |
+|---------|--------------|
+| [**OGCode**](https://github.com/TejasriPacharu/OGproject) `🧩` | AI-powered competitive coding platform · Docker sandboxing · Real-time leaderboards |
+| [**DocuVerse**](https://github.com/TejasriPacharu/DocuVerse) `📑` | Chat with documents · FAISS vector search · RAG pipeline |
+| [**LLM Observe**](https://github.com/TejasriPacharu/llm-observe) `🔬` | LangSmith-style observability · Prompt logging · Drift detection |
+| [**AI Brand Visibility Tracker**](https://github.com/TejasriPacharu/ai-brand-visibility-tracker) `📡` | Track brand mentions across ChatGPT & Gemini responses |
+| [**Screen Rec**](https://github.com/TejasriPacharu/screen-rec) `🎬` | Browser-based recording · FFmpeg trimming · S3 uploads |
+| [**Tuteetutor**](https://github.com/lahariSane/tuteetutor-react) `🎓` | A Google-style Classroom management system · Multi-role dashboards · Solr search |
+| [**NIDS**](https://github.com/Akshitadimpu05/NIDS) `🌠` | a distributed encrypted-traffic IDS using Autoencoders, Capsule Networks, and PPO-based RL
+mitigation module with Allow/Block/Throttle decisions, achieving 94.83% accuracy and 47.2 ms latency on
+CIC-Darknet2020, deployed in a Docker-based fog computing environment|
 
-- Docker-sandboxed multi-language execution  
-- JWT-based authentication  
-- AI-powered code analysis (OpenAI / Gemini)  
-- Real-time leaderboard  
-- Contest system  
-
-**Tech Stack:** React • TailwindCSS • Node.js • Express • Docker • Redis • PostgreSQL • OpenAI/Gemini APIs  
-
----
-
-## 📄 DocuVerse – A Document Summarizer 
-🔗 https://github.com/TejasriPacharu/DocuVerse  
-
-Chat with PDFs, DOCX, TXT, Markdown using semantic search.
-
-- FAISS vector search  
-- HuggingFace embeddings  
-- Session-based conversational memory  
-- FastAPI backend  
-- MongoDB persistence  
-
-**Tech Stack:** FastAPI • LangChain • FAISS • MongoDB • HuggingFace • Python  
+`🔒` **Research Acchievement** · Hybrid RL-Based Network IDS — *Accepted @ COMSNETS MINDS 2026* 
 
 ---
 
-## 📊 LLM Observability Platform (LangSmith-like)  
-🔗 https://github.com/TejasriPacharu/llm-observe  
+### 🧰 Stack
 
-Evaluation and monitoring system for LLM applications.
-
-- Logs prompts, responses, latency  
-- Evaluation engine  
-- Drift detection design  
-- API tracing  
-- AI test app integration  
-
-**Tech Stack:** FastAPI • PostgreSQL • SQLAlchemy • Pydantic • Python • Gemini/OpenAI APIs  
+```
+Languages    ➜  Python · TypeScript · JavaScript · C++ · Java
+Backend      ➜  Node.js · FastAPI · Express · PostgreSQL · Redis · MongoDB
+Frontend     ➜  React · Next.js · TailwindCSS
+LLM/ML       ➜  LangChain · PyTorch · FAISS · HuggingFace · RAG · RL (PPO)
+DevOps       ➜  Docker · AWS · GitHub Actions · Prometheus
+```
 
 ---
 
-## 📊 AI Brand Visibility Tracker  
-🔗 https://github.com/TejasriPacharu/ai-brand-visibility-tracker  
+### 🏅 Highlights
 
-Full-stack analytics platform to measure brand visibility across AI-driven search systems like Chatgpt, Gemini.
-
-- Automated LLM query orchestration  
-- Brand mention extraction & ranking  
-- Sentiment analysis pipeline  
-- Competitive benchmarking  
-- Interactive analytics dashboard  
-
-**Tech Stack:** React • Node.js • Express • Prisma • SQLite • TailwindCSS • OpenAI/Gemini APIs  
+`🥇` Top 100 / 18,000+ — Myntra WeForShe  
+`🥈` Top 30 / 2,000+ — Caterpillar Hackathon
 
 ---
 
-## 🖥 Screen Recording & Sharing Platform  
-🔗 https://github.com/TejasriPacharu/screen-rec  
-
-Scalable screen recording platform with:
-
-- In-browser recording  
-- FFmpeg.wasm trimming  
-- Secure S3 uploads  
-- JWT authentication  
-
-**Tech Stack:** Next.js • TypeScript • MongoDB • S3 • JWT • FFmpeg.wasm  
-
----
-
-## 🏫 Tuteetutor – Classroom Management System  
-🔗 https://github.com/lahariSane/tuteetutor-react  
-
-Google Classroom-style classroom management system featuring:
-
-- Admin, HOD, Faculty, Student dashboards  
-- Personalized to-dos  
-- Leave request system  
-- Real-time notifications  
-- Solr-powered search  
-
-**Tech Stack:** MERN Stack • Redis • Docker • TailwindCSS  
-
----
-
-## 🛡 Hybrid RL-Based Network Intrusion Detection System (Research accepted at COMSNETS MINDS 2026)
- A distributed encrypted-traffic IDS using Autoencoders, Capsule Networks, and PPO-based RL
-mitigation module with Allow/Block/Throttle decisions
-
-- Achieved 94.83% accuracy with 47ms latency in a docker-based fog deployment  
-
-**Tech Stack:** Python • PyTorch • Prometheus • Docker • Reinforcement Learning  
-
----
-
-# ⚙️ Tech Stack
-
-### 💻 Languages
-Python • JavaScript • TypeScript • C • C++ • Java  
-
-### 🌐 Backend
-Node.js • Express • FastAPI • REST APIs • JWT • Redis • PostgreSQL • MongoDB  Prisma
-
-### 🖥 Frontend
-React • Next.js • Vite • TailwindCSS • TypeScript  
-
-### LLM And ML Engineering
-LangChain • LangSmith • Pydantic • PyTorch • Transformers  
-HuggingFace • FAISS • OpenAI SDKs • Gemini API  
-RAG Systems • Vector Databases • Embedding Pipelines  
-Reinforcement Learning (PPO) • Autoencoders • Capsule Networks
-
-### ☁️ DevOps & Systems
-Docker • Linux • CI/CD(Github Actions) • Prometheus • AWS 
-
----
-
-# 🏆 Achievements
-
-- 🥇 Top 100 Finalist – Myntra WeForShe Hackathon (18,000+ teams)  
-- 🥈 Top 30 Finalist – Caterpillar Hackathon (2,000+ teams)  
-
----
-
-# 📫 Let's Connect
-
-- LinkedIn  
-- GitHub  
-- LeetCode  
-- Codeforces  
-
----
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejasri-pacharu-aa58a726b/">LinkedIn</a> ·
+  <a href="https://github.com/TejasriPacharu">GitHub</a> ·
+  <a href="https://leetcode.com/u/press0re/">LeetCode</a> ·
+  <a href="https://codeforces.com/profile/Teja_Sri_P">Codeforces</a>
+</p>
