@@ -16,6 +16,7 @@
 | [**LLM Observe**](https://github.com/TejasriPacharu/llm-observe) `🔬` | LangSmith-style observability · Prompt logging · Drift detection |
 | [**Tuteetutor**](https://github.com/lahariSane/tuteetutor-react) `🎓` | A Google-style Classroom management system · Multi-role dashboards · Solr search |
 | [**NIDS**](https://github.com/Akshitadimpu05/NIDS) `🛡️` | A Distributed Hybrid RL-based intrusion detection · Autoencoders + Capsule Networks · PPO · 94.83% accuracy and 47.2 ms latency|
+| [**Commit-gifly**](https://github.com/TejasriPacharu/commit-gifly) `🌠` | A Github app that listens to issues and PRs with relevant GIFS · Giphy · Node JS · Docker|
 
 `🔒` **Research Acchievement** · Hybrid RL-Based Network IDS — *Accepted @ COMSNETS MINDS 2026* 
 
