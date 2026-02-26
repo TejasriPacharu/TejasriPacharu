@@ -1,6 +1,6 @@
 # Hey, I'm Teja 👾
 
-**B.Tech CSE @ IIIT Sricity '26** · Building distributed systems, LLM apps & industrial-grade software
+**B.Tech CSE @ IIIT Sricity '26** · Building distributed systems, LLM apps & Industrial-grade software
 
 ---
 
@@ -8,15 +8,14 @@
 
 | Project | What it does |
 |---------|--------------|
-| [**OGCode**](https://github.com/TejasriPacharu/OGproject) `🧩` | AI-powered competitive coding platform · Docker sandboxing · multi-language support |
-| [**DocuVerse**](https://github.com/TejasriPacharu/DocuVerse) `📑` | Chat with documents · FAISS vector search · RAG pipeline |
-| [**Code-Help**](https://github.com/TejasriPacharu/code-help) `🤖` | Multi-agent code assistant · Code analysis, debugging, testing & security review · OpenAI Agents SDK |
+| [**OGCode**](https://github.com/TejasriPacharu/OGproject) `🧩` | AI-powered competitive coding platform |
+| [**DocuVerse**](https://github.com/TejasriPacharu/DocuVerse) `📑` | Chat with documents|
+| [**Code-Help**](https://github.com/TejasriPacharu/code-help) `🤖` | Multi-agent code assistant with Open AI SDKs|
 | [**AI Brand Visibility Tracker**](https://github.com/TejasriPacharu/ai-brand-visibility-tracker) `📡` | Track brand mentions across ChatGPT & Gemini responses |
-| [**Screen Rec**](https://github.com/TejasriPacharu/screen-rec) `🎬` | Browser-based recording · FFmpeg trimming · S3 uploads |
-| [**LLM Observe**](https://github.com/TejasriPacharu/llm-observe) `🔬` | LangSmith-style observability · Prompt logging · Drift detection |
-| [**Tuteetutor**](https://github.com/lahariSane/tuteetutor-react) `🎓` | A Google-style Classroom management system · Multi-role dashboards · Solr search |
-| [**NIDS**](https://github.com/Akshitadimpu05/NIDS) `🛡️` | A Distributed Hybrid RL-based intrusion detection · Autoencoders + Capsule Networks · PPO · 94.83% accuracy and 47.2 ms latency|
-| [**Commit-gifly**](https://github.com/TejasriPacharu/commit-gifly) `🌠` | A Github app that listens to issues and PRs with relevant GIFS · Giphy · Node JS · Docker|
+| [**Screen Rec**](https://github.com/TejasriPacharu/screen-rec) `🎬` | Browser-based recording platform |
+| [**Tuteetutor**](https://github.com/lahariSane/tuteetutor-react) `🎓` | A Google-style Classroom management system |
+| [**NIDS**](https://github.com/Akshitadimpu05/NIDS) `🛡️` | A Distributed Hybrid RL-based intrusion detection with Autoencoders, Capsule Networks and a PPO(RL) based Attack Mitigation Module|
+| [**Commit-gifly**](https://github.com/TejasriPacharu/commit-gifly) `🌠` | A Github app that listens to issues and PRs with relevant GIFS|
 
 `🔒` **Research Acchievement** · Hybrid RL-Based Network IDS — *Accepted @ COMSNETS MINDS 2026* 
 
@@ -28,7 +27,7 @@
 Languages    ➜  Python · TypeScript · JavaScript · C++ · Java
 Backend      ➜  Node.js · FastAPI · Express · PostgreSQL · Redis · MongoDB
 Frontend     ➜  React · Next.js · TailwindCSS
-LLM/ML       ➜  LangChain · PyTorch · FAISS · HuggingFace · RAG · RL (PPO)
+LLM/ML       ➜  LangChain · LangSmith · LangGraph · PyTorch · FAISS · HuggingFace · RAG · RL (PPO)
 DevOps       ➜  Docker · AWS · GitHub Actions · Prometheus
 ```
 
